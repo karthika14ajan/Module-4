@@ -1,4 +1,4 @@
-*🔤 Dictionary-Python Program to Sort a Dictionary by Keys and Values*
+# *🔤 Dictionary-Python Program to Sort a Dictionary by Keys and Values*
 This Python program demonstrates how to sort a dictionary:
 -> Alphabetically by keys
 -> Alphabetically by values
@@ -32,7 +32,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Dictionary Operations in Python: Merging Two Dictionaries*
+# *Dictionary Operations in Python: Merging Two Dictionaries*
 
 _AIM:_
 To write a Python program that merges two dictionaries and combines their key-value pairs.
@@ -56,7 +56,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*File Handling in Python: Count Lines Not Starting with 'T'*
+# *File Handling in Python: Count Lines Not Starting with 'T'*
 
 _AIM:_
 To write a Python program that counts the number of lines in a text file story.txt that do not start with the alphabet 'T'.
@@ -81,7 +81,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Exception Handling in Python: Avoiding Index Errors*
+# *Exception Handling in Python: Avoiding Index Errors*
 
 _AIM:_
 To write a Python program that handles an IndexError when trying to access an element beyond the available range of a list.
@@ -105,7 +105,7 @@ _OUTPUT:_
 _RESULT:_
 Thus , the program has been executed succesfully.
 
-*Classes and Objects in Python: Calculate the Area of a Circle*
+# *Classes and Objects in Python: Calculate the Area of a Circle*
 
 _AIM:_
 To write a Python program that calculates the area of a circle based on the radius provided by the user. This program uses a class named cse and a method mech to perform the calculation.
